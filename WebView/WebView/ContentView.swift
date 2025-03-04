@@ -54,7 +54,7 @@ struct ContentView: View {
                 .padding(.bottom)
                 .scrollIndicators(.hidden)
             }
-            .navigationTitle("Hortes Sta Eugenia")
+            .navigationTitle("Hortes Sta Eugenia!")
             
         }
     }
